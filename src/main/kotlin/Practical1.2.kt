@@ -8,5 +8,5 @@ fun main()
     var dou_string : Double = string.toDouble()
     var new = dou_string+1.12
     println("String Value: $string \nInteger Value1: $new_string \nInteger Value2: $new_string")
-    println("Double Value: $new")
+    println("Double Value:$new")
 }
