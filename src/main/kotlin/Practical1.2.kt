@@ -2,7 +2,7 @@ fun main()
 {
     var int_val : Int = 10
     var new_value : Double = int_val.toDouble()
-    println("Integerr Value: $int_val \nDouble From Integer: $new_value")
+    println("Integer Value: $int_val \nDouble From Integer: $new_value")
     var string : String = "10"
     var new_string : Int = string.toInt()
     var dou_string : Double = string.toDouble()
