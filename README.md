@@ -58,12 +58,14 @@
 
 **-> Output :-**
 
-![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/11f3b388-7163-45e9-9ef2-689fbac63d72) ![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/34539705-036f-4e0f-9e1c-133d98a06775)
+![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/11f3b388-7163-45e9-9ef2-689fbac63d72) 
+![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/34539705-036f-4e0f-9e1c-133d98a06775)
 
 
 **11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.**
 
 **-> Output :-**
 
-![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/d8ae0cc7-6270-4ec8-8f6c-95a24461ecb9) ![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/080e51eb-286c-4211-82b3-6d090c8ce278)
+![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/d8ae0cc7-6270-4ec8-8f6c-95a24461ecb9) 
+![image](https://github.com/krupa-patel06/MAD_Practical1_21012021070/assets/122816669/080e51eb-286c-4211-82b3-6d090c8ce278)
 
